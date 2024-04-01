@@ -1,9 +1,10 @@
 /*
 ** EPITECH PROJECT, 2024
-** undefined
-** File description:
 ** chocolatine-mirror
+** File description:
+** chocolatine_mirror
 */
+
 #include <unistd.h>
 
 int main()
